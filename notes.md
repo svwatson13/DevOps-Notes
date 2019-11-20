@@ -33,11 +33,15 @@
 - Remove git: rm -rf .git
 <<<<<<< HEAD
 - Adding to previously used repository:
+<<<<<<< HEAD
 git init
 git remote add origin https://github.com/swatson2019/<name-of-repository.git
 git pull origin master --allow-unrelated-histories
 git add '<file name'
 git push -u origin master
+=======
+git pull origin master --allow-unrelated-histories
+>>>>>>> 4654dc7174c7a7082b6cacdf63d8d61581a12678
 =======
 >>>>>>> 5706e7981de7ca03e6fd8c3f6b9fdd5d6b2a8483
 
