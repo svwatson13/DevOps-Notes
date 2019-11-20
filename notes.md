@@ -41,11 +41,34 @@ git add '<file name'
 git push -u origin master
 =======
 git pull origin master --allow-unrelated-histories
+<<<<<<< HEAD
 git add '<file name>'
 git push -u origin master
+=======
+>>>>>>> 06398d45327a290cba41a969df0f9bd3cc5380a6
 >>>>>>> 4654dc7174c7a7082b6cacdf63d8d61581a12678
 =======
 >>>>>>> 5706e7981de7ca03e6fd8c3f6b9fdd5d6b2a8483
 
 ## Github
 ### What is Github?
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+- Hello
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello hi hey
+=======
+Hello hi hey hi
+>>>>>>> Salvation
+=======
+Hello hi hey
+>>>>>>> 3981079223d380ac9f29677e3e3829f0ae942776
+<<<<<<< HEAD
+>>>>>>> 8ebdcc73cea4e71aa41c6af6d90c563a1c9325
+=======
+>>>>>>> 8ebdcc73cea4e71aa41c6af6d90c563a1c9325cc
+>>>>>>> 5706e7981de7ca03e6fd8c3f6b9fdd5d6b2a8483
+>>>>>>> 06398d45327a290cba41a969df0f9bd3cc5380a6
