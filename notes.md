@@ -34,4 +34,16 @@
 
 ## Github
 ### What is Github?
+<<<<<<< HEAD
 - Hello
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello hi hey
+=======
+Hello hi hey hi
+>>>>>>> Salvation
+=======
+Hello hi hey
+>>>>>>> 3981079223d380ac9f29677e3e3829f0ae942776
+>>>>>>> 8ebdcc73cea4e71aa41c6af6d90c563a1c9325cc
