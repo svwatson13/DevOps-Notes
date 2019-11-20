@@ -31,8 +31,11 @@
 - Check what repository links are set up: git remote -v
 - Change repository link: git remote set-url <new origin
 - Remove git: rm -rf .git
+<<<<<<< HEAD
 - Adding to previously used repository:
 git pull origin master --allow-unrelated-histories
+=======
+>>>>>>> 5706e7981de7ca03e6fd8c3f6b9fdd5d6b2a8483
 
 ## Github
 ### What is Github?
@@ -48,4 +51,8 @@ Hello hi hey hi
 =======
 Hello hi hey
 >>>>>>> 3981079223d380ac9f29677e3e3829f0ae942776
+<<<<<<< HEAD
 >>>>>>> 8ebdcc73cea4e71aa41c6af6d90c563a1c9325
+=======
+>>>>>>> 8ebdcc73cea4e71aa41c6af6d90c563a1c9325cc
+>>>>>>> 5706e7981de7ca03e6fd8c3f6b9fdd5d6b2a8483
