@@ -31,19 +31,14 @@
 - Check what repository links are set up: git remote -v
 - Change repository link: git remote set-url <new origin
 - Remove git: rm -rf .git
-<<<<<<< HEAD
 - Adding to previously used repository:
-<<<<<<< HEAD
 git init
 git remote add origin https://github.com/swatson2019/<name-of-repository.git
 git pull origin master --allow-unrelated-histories
 git add '<file name'
+git commit '<commit>'
 git push -u origin master
-=======
-git pull origin master --allow-unrelated-histories
-<<<<<<< HEAD
-git add '<file name>'
-git push -u origin master
+
 
 
 ## Github
